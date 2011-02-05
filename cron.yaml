@@ -1,0 +1,4 @@
+cron:
+- description: send email notification of tasks
+  url: /cron/send
+  schedule: every 5 minutes
