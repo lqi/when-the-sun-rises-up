@@ -1,0 +1,1 @@
+An email-based RESTful scheduling DSL, running on Google App Engine.
